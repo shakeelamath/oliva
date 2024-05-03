@@ -80,12 +80,12 @@ p span:before {
 
 @keyframes gerak {
     0% {
-        content: 'Watashi Amaru Kun';
+        content: 'For oliva';
     }
     50% {
-        content: 'Aku ada Hadiah Buat Kamu';
+        content: '';
     }
     100% {
-        content: 'Penasaran Yaa Ciee!';
+        content: '';
     }
 }
